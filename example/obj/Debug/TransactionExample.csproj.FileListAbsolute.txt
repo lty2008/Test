@@ -1,0 +1,15 @@
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\example.exe.config
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\example.exe
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\example.pdb
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\llvm.dll
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\thinSDK.dll
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\thinSDK_neo.dll
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\llvm.pdb
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\thinSDK.pdb
+C:\Users\tlan\NEO\examples-transaction\example\bin\Debug\thinSDK_neo.pdb
+C:\Users\tlan\NEO\examples-transaction\example\obj\Debug\TransactionExample.csprojAssemblyReference.cache
+C:\Users\tlan\NEO\examples-transaction\example\obj\Debug\TransactionExample.csproj.CoreCompileInputs.cache
+C:\Users\tlan\NEO\examples-transaction\example\obj\Debug\TransactionExample.csproj.CopyComplete
+C:\Users\tlan\NEO\examples-transaction\example\obj\Debug\example.exe
+C:\Users\tlan\NEO\examples-transaction\example\obj\Debug\example.pdb

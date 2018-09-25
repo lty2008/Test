@@ -1,0 +1,14 @@
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.deps.json
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.dll
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.pdb
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\llvm.dll
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.dll
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\llvm.pdb
+C:\Users\tlan\NEO\examples-transaction\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.pdb
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csprojAssemblyReference.cache
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CoreCompileInputs.cache
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfoInputs.cache
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfo.cs
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CopyComplete
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.dll
+C:\Users\tlan\NEO\examples-transaction\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.pdb
